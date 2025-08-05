@@ -1,6 +1,10 @@
 # 🧠 Multi-Task NLP with BERT
 
 > A unified transformer-based model for **Emotion Classification**, **Violence Detection**, and **Hate Speech Detection**.
+>
+> ## ⚠️ Note
+
+> My previous GitHub account was unexpectedly suspended. This project was originally created earlier and has been re-uploaded here. All work was done gradually over time, and original commit history has been preserved where possible.
 
 ---
 
